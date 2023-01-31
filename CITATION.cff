@@ -1,0 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Pinder
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Tristian Reinder
+    family-names: Stolte
+    affiliation: >-
+      Institute for Environmental Studies - Vrije
+      Universiteit Amsterdam
+    orcid: 'https://orcid.org/0000-0002-8776-9896'
+repository-code: 'https://github.com/Hielvoet/Pinder'
+abstract: >-
+  Pinder is an easy-to-use tool to pre-sort scientific
+  articles during a systematic literature review. The
+  concept is based on the popular dating app Tinder; With
+  Pinder you will 'swype' or sort out papers by categorizing
+  them in papers to keep and papers to dispose of.
+
+  The program is still in development and more accessible
+  versions with increasing capabilities are coming out in
+  the near future. 
+keywords:
+  - Systematic literature review
+  - SLR
+  - Pinder
+license: GPL-3.0
+commit: 69ee9e2
+version: V1.2
+date-released: '2022-08-24'
