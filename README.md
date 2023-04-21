@@ -1,7 +1,7 @@
 # Pinder
 'Tinder'-like application, but for scientific articles. Specifically made to help with systematic literature reviews. 
 
-## Installation instructions:
+## Download instructions:
 Note that the .exe file is saved in the Git LFS (Large File Storage) server. Therefore, download the .exe file seperately from the other files in this repo. Go directly to the .exe file here: https://github.com/Hielvoet/Pinder/blob/main/pinder_Vexe.exe and hit the download button.
 
 
