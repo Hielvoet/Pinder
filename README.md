@@ -4,6 +4,8 @@
 ## Download instructions:
 Note that the .exe file is saved in the Git LFS (Large File Storage) server. Therefore, download the .exe file seperately from the other files in this repo. Go directly to the .exe file here: https://github.com/Hielvoet/Pinder/blob/main/pinder_Vexe.exe and hit the download button.
 
+If the .exe file does not work properly, try to download it in one-dir mode instead: https://github.com/Hielvoet/Pinder/blob/main/Pinder_exe_file_onedir.zip
+Unzip this file after downloading and hit the "pinder_Vexe - Shortcut" to start Pinder.
 
 ## Logo:
 ![Pinder_logo_V1](https://user-images.githubusercontent.com/77054548/224804151-71e3a2af-a16c-444a-8e0f-0cf7d6bf24be.jpg)
